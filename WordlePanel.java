@@ -7,8 +7,7 @@ public class WordlePanel extends JPanel
 {
    private Subpanel sub;
    private JPanel bottom;
-   private ImagePanel top;
-   private ImageIcon image;
+   private ImageIcon wordle;
    private JTextField tf;
    private String theword;
    private JButton button, retry, exit, stats;
